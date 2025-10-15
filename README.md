@@ -56,12 +56,20 @@ Currently obsessed with blending frontend aesthetics and backend logic to create
 
 ### 📊 GitHub Stats  
 
+<!-- GitHub stats -->
 <div align="center">
-  
-![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngieChristine&show_icons=true&theme=buefy&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngieChristine&layout=compact&theme=buefy&hide_border=true)
+
+<!-- Main GitHub stats -->
+![Angie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AngievR05&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngievR05&layout=compact&hide=html&theme=buefy&hide_border=true)
+
+<!-- Contribution streak -->
+![Streak](https://streak-stats.demolab.com?user=AngievR05&theme=vue-dark&hide_border=true)
 
 </div>
+
 
 ---
 
