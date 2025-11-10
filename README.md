@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Hey, I’m Angie Christine van Rooyen 🌸</h1>
 <h3 align="center">✨ Full-Stack Developer & UI/UX Designer ✨<br>Crafting digital experiences where <i>design meets emotion</i>.</h3>
-<img src="https://github.com/AngievR05/mood-meals/assets/preview-moodmeals.png" width="650" alt="Mood Meals Preview"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Cover.png" width="650" alt="Cover"/>
 ---
 
 ### 💫 About Me  
@@ -66,7 +66,7 @@ Every element — from colors to interactions — was built with *empathy and in
 It goes beyond CRUD — it’s an emotionally intelligent UX project that merges **design psychology**, **data-driven interaction**, and **personalized content generation.**  
 
 📸 *Preview:*  
-<img src="https://github.com/AngievR05/mood-meals/assets/preview-moodmeals.png" width="650" alt="Mood Meals Preview"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Register.png" width="650" alt="Mood Meals Preview"/>
 
 ---
 
@@ -89,7 +89,7 @@ Built collaboratively with an agile team, I led the **frontend architecture and 
 🧃 *Designed to make a purchase journey fun and accessible while maintaining secure transactions and responsive UI.*  
 
 📸 *Preview:*  
-<img src="https://github.com/AngievR05/mern_liquor/assets/preview-drunken-giraffe.png" width="650" alt="The Drunken Giraffe Preview"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Welcome.png" width="650" alt="The Drunken Giraffe Preview"/>
 
 ---
 
@@ -111,7 +111,7 @@ It lets users explore, compare, and visualize books using **Google Books API** �
 Shelfy reimagines how users interact with data — merging information architecture and visual storytelling through design-led React components.
 
 📸 *Preview:*  
-<img src="https://github.com/AngievR05/shelfy_react_app/assets/preview-shelfy.png" width="650" alt="Shelfy Preview"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Timeline%20Search.png" width="650" alt="Shelfy Preview"/>
 
 ---
 
@@ -121,7 +121,6 @@ Shelfy reimagines how users interact with data — merging information architect
 
 ![Angie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AngievR05&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngievR05&layout=compact&hide=html&theme=vue&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=AngievR05&theme=vue-dark&hide_border=true)
 
 </div>
 
