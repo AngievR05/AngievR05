@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Hey, I’m Angie Christine van Rooyen 🌸</h1>
 <h3 align="center">✨ Full-Stack Developer & UI/UX Designer ✨<br>Crafting digital experiences where <i>design meets emotion</i>.</h3>
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Cover.png" width="650" alt="Cover"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Cover.png" width="950" alt="Cover"/>
 ---
 
 ### 💫 About Me  
@@ -66,7 +66,7 @@ Every element — from colors to interactions — was built with *empathy and in
 It goes beyond CRUD — it’s an emotionally intelligent UX project that merges **design psychology**, **data-driven interaction**, and **personalized content generation.**  
 
 📸 *Preview:*  
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Register.png" width="650" alt="Mood Meals Preview"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Register.png" width="950" alt="Mood Meals Preview"/>
 
 ---
 
@@ -89,7 +89,7 @@ Built collaboratively with an agile team, I led the **frontend architecture and 
 🧃 *Designed to make a purchase journey fun and accessible while maintaining secure transactions and responsive UI.*  
 
 📸 *Preview:*  
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Welcome.png" width="650" alt="The Drunken Giraffe Preview"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Welcome.png" width="950" alt="The Drunken Giraffe Preview"/>
 
 ---
 
@@ -111,7 +111,7 @@ It lets users explore, compare, and visualize books using **Google Books API** �
 Shelfy reimagines how users interact with data — merging information architecture and visual storytelling through design-led React components.
 
 📸 *Preview:*  
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Timeline%20Search.png" width="650" alt="Shelfy Preview"/>
+<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Timeline%20Search.png" width="950" alt="Shelfy Preview"/>
 
 ---
 
