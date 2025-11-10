@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Hey, I’m Angie Christine van Rooyen 🌸</h1>
 <h3 align="center">✨ Full-Stack Developer & UI/UX Designer ✨<br>Crafting digital experiences where <i>design meets emotion</i>.</h3>
-
+<img src="https://github.com/AngievR05/mood-meals/assets/preview-moodmeals.png" width="650" alt="Mood Meals Preview"/>
 ---
 
 ### 💫 About Me  
