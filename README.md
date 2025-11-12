@@ -6,9 +6,9 @@
 ### 💫 About Me  
 I’m **Angie van Rooyen**, a creative technologist passionate about building digital experiences that *feel alive*.  
 My philosophy: design is the body, code is the soul.  
-I bridge aesthetic design with technical depth — writing code that feels intuitive and designing interfaces that make people feel understood.
+I bridge aesthetic design with technical depth, writing code that feels intuitive and designing interfaces that make people feel understood.
 
-I’m currently pursuing **UX & Development**, combining logic, design systems, and human-centered thinking.  
+I’m currently pursuing **UX & Development**, combining logic, design systems, and human-centred thinking.  
 From crafting emotion-driven UI in **React** to building secure backend architectures in **Node.js**, I’m all about **creating meaningful, data-aware, emotionally intelligent software.**
 
 ---
@@ -43,34 +43,34 @@ From crafting emotion-driven UI in **React** to building secure backend architec
 
 ## 🌟 Featured Projects  
 
-### 🧠 Mood Meals — Emotion-Based Nutrition Tracker  
+### 🧠 Mood Meals - Emotion-Based Nutrition Tracker  
 **Type:** Full-Stack Web Application (React + Node + MySQL)  
 **Link:** [View Repo](https://github.com/AngievR05/mood-meals) · [Live Site](https://moodmeals.site)
 
 🌿 *Mood Meals connects emotions with nutrition to promote mindful eating and emotional well-being.*  
-It helps users **log moods, track emotional trends, and receive personalized meal recommendations** designed to support their mental health.  
-Every element — from colors to interactions — was built with *empathy and intention.*
+It helps users **log moods, track emotional trends, and receive personalised meal recommendations** designed to support their mental health.  
+Every element, from colours to interactions, was built with *empathy and intention.*
 
 **✨ Key Features**
 - 🧠 **Emotion-to-Meal Logic:** Dynamic mapping system connecting moods with dietary tags  
 - 🔐 **Secure Authentication:** JWT-based user sessions + password hashing  
 - 📊 **Mood Tracker Dashboard:** Weekly and monthly visual analytics  
 - 🛒 **Grocery List Integration:** CRUD-based smart shopping list  
-- 🍽️ **Recipe Page:** Dynamic recipe rendering with save/favorite functionality  
+- 🍽️ **Recipe Page:** Dynamic recipe rendering with save/favourite functionality  
 - 📱 **Mobile-First Responsive Design** built entirely from scratch with custom CSS  
 - ☁️ **Live Deployment:** Hosted on GCP with SSH-based CI/CD pipeline  
 - 🔍 **SEO & Analytics:** Google Analytics + sitemap + performance optimization  
 - 🧩 **Database Schema:** MySQL in 3NF for scalability and relational integrity  
 
 **🧠 Why It’s Special**  
-It goes beyond CRUD — it’s an emotionally intelligent UX project that merges **design psychology**, **data-driven interaction**, and **personalized content generation.**  
+It goes beyond CRUD; it’s an emotionally intelligent UX project that merges **design psychology**, **data-driven interaction**, and **personalised content generation.**  
 
 📸 *Preview:*  
 <img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Register.png" width="950" alt="Mood Meals Preview"/>
 
 ---
 
-### 🦒 The Drunken Giraffe — Gamified E-Commerce Liquor Store  
+### 🦒 The Drunken Giraffe - Gamified E-Commerce Liquor Store  
 **Type:** MERN Stack Team Project  
 **Link:** [View Repo](https://github.com/AngievR05/mern_liquor)
 
@@ -93,12 +93,12 @@ Built collaboratively with an agile team, I led the **frontend architecture and 
 
 ---
 
-### 📚 Shelfy — Interactive Literature Dashboard  
+### 📚 Shelfy - Interactive Literature Dashboard  
 **Type:** Front-End Data Visualization App (React + Google Books API)  
 **Link:** [View Repo](https://github.com/AngievR05/shelfy_react_app.git)
 
-📖 *Shelfy is a data visualization dashboard that transforms reading trends into insights.*  
-It lets users explore, compare, and visualize books using **Google Books API** — turning raw literary data into dynamic, interactive charts.
+📖 *Shelfy is a data visualisation dashboard that transforms reading trends into insights.*  
+It lets users explore, compare, and visualise books using **Google Books API**, turning raw literary data into dynamic, interactive charts.
 
 **✨ Key Features**
 - 🔍 **Google Books API Integration:** Real-time search and data retrieval  
@@ -108,7 +108,7 @@ It lets users explore, compare, and visualize books using **Google Books API** �
 - 🌈 **UI:** Clean, responsive layout with subtle animations and themed icons  
 
 **🎯 Why It Matters**  
-Shelfy reimagines how users interact with data — merging information architecture and visual storytelling through design-led React components.
+Shelfy reimagines how users interact with data, merging information architecture and visual storytelling through design-led React components.
 
 📸 *Preview:*  
 <img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Timeline%20Search.png" width="950" alt="Shelfy Preview"/>
@@ -128,9 +128,9 @@ Shelfy reimagines how users interact with data — merging information architect
 
 ## 🪩 Design Philosophy  
 
-> “Technology should feel — not just function.”  
+> “Technology should feel, not just function.”  
 
-Every project I build carries a bit of soul: a sense of humanity through interaction design, emotional color systems, and microinteractions.  
+Every project I build carries a bit of soul: a sense of humanity through interaction design, emotional colour systems, and microinteractions.  
 I write code like a designer and design like a developer — ensuring the *form follows function*, and function follows feeling.
 
 I’m currently exploring **AI-assisted interfaces**, **data-driven empathy in UX**, and **intelligent front-end systems** that adapt to user context.
