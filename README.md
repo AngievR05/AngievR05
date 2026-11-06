@@ -1,152 +1,130 @@
-<h1 align="center">🌸 Hey, I’m Angie Christine van Rooyen 🌸</h1>
-<h3 align="center">✨ Full-Stack Developer & UI/UX Designer ✨<br>Crafting digital experiences where <i>design meets emotion</i>.</h3>
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Cover.png" width="950" alt="Cover"/>
----
+<h1 align="center">Hi, I'm Angie Christine van Rooyen 🌸</h1>
 
-### 💫 About Me  
-I’m **Angie van Rooyen**, a creative technologist passionate about building digital experiences that *feel alive*.  
-My philosophy: design is the body, code is the soul.  
-I bridge aesthetic design with technical depth, writing code that feels intuitive and designing interfaces that make people feel understood.
+<p align="center">
+  <strong>Full-stack developer & UI/UX designer</strong><br />
+  Thoughtful interfaces. Practical systems. Human-centred experiences.
+</p>
 
-I’m currently pursuing **UX & Development**, combining logic, design systems, and human-centred thinking.  
-From crafting emotion-driven UI in **React** to building secure backend architectures in **Node.js**, I’m all about **creating meaningful, data-aware, emotionally intelligent software.**
-
----
-
-### 🧠 Tech Stack & Tools  
-
-<div align="center">
-
-#### 💻 Languages & Frameworks  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)
-
-#### 🗃️ Databases & Backend  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
-
-#### 🎨 Design & Collaboration  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
-![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobe-xd&logoColor=fff)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=fff)
-
-</div>
+<p align="center">
+  <a href="https://github.com/AngievR05">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/angie-van-rooyen-7008712a7">LinkedIn</a> ·
+  <a href="mailto:241077@virtualwindow.co.za">Email</a>
+</p>
 
 ---
 
-## 🌟 Featured Projects  
+## About me
 
-### 🧠 Mood Meals - Emotion-Based Nutrition Tracker  
-**Type:** Full-Stack Web Application (React + Node + MySQL)  
-**Link:** [View Repo](https://github.com/AngievR05/mood-meals) · [Live Site](https://moodmeals.site)
+I'm Angie, a developer and designer studying UX and Development at the Open Window Institute. I enjoy taking an idea from research and interface design through to a working application, connecting the details people see with the systems behind them.
 
-🌿 *Mood Meals connects emotions with nutrition to promote mindful eating and emotional well-being.*  
-It helps users **log moods, track emotional trends, and receive personalised meal recommendations** designed to support their mental health.  
-Every element, from colours to interactions, was built with *empathy and intention.*
+My approach is guided by a simple belief: **design is the body, code is the soul.** I care about clear journeys, considered visual systems, and interactions that help people feel confident using a product.
 
-**✨ Key Features**
-- 🧠 **Emotion-to-Meal Logic:** Dynamic mapping system connecting moods with dietary tags  
-- 🔐 **Secure Authentication:** JWT-based user sessions + password hashing  
-- 📊 **Mood Tracker Dashboard:** Weekly and monthly visual analytics  
-- 🛒 **Grocery List Integration:** CRUD-based smart shopping list  
-- 🍽️ **Recipe Page:** Dynamic recipe rendering with save/favourite functionality  
-- 📱 **Mobile-First Responsive Design** built entirely from scratch with custom CSS  
-- ☁️ **Live Deployment:** Hosted on GCP with SSH-based CI/CD pipeline  
-- 🔍 **SEO & Analytics:** Google Analytics + sitemap + performance optimization  
-- 🧩 **Database Schema:** MySQL in 3NF for scalability and relational integrity  
+In **2026**, my work spans construction project management, sensor-driven mobile exploration, and personalised reading. Across these projects, I've explored desktop, mobile, and web development, with a focus on usability, connected data, and purposeful interaction.
 
-**🧠 Why It’s Special**  
-It goes beyond CRUD; it’s an emotionally intelligent UX project that merges **design psychology**, **data-driven interaction**, and **personalised content generation.**  
+## Featured projects · 2026
 
-📸 *Preview:*  
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Register.png" width="950" alt="Mood Meals Preview"/>
+### 01: Projello
 
----
+**Construction project management · Desktop application · Team project**
 
-### 🦒 The Drunken Giraffe - Gamified E-Commerce Liquor Store  
-**Type:** MERN Stack Team Project  
-**Link:** [View Repo](https://github.com/AngievR05/mern_liquor)
+[![Projello — construction project management](https://github.com/AngievR05/Projello-Management-System/blob/main/ReadmeImages/Cover.png?raw=true)](https://github.com/AngievR05/Projello-Management-System)
 
-🍷 *A bold, gamified e-commerce experience blending accessibility, playfulness, and secure commerce.*  
-Built collaboratively with an agile team, I led the **frontend architecture and API integrations** that make the user experience intuitive and dynamic.
+Construction teams need a clear picture of what's happening on site. Projello brings clients, projects, milestones, and tasks into one workspace, with workflows built around the realities of field work.
 
-**🧩 My Contributions**
-- Built interactive core components: **ChatWidget**, **SearchBar**, **CheckoutForm**, **AddProductModal**, **EditProductModal**, **FilterPanel**, **ReviewForm**, **ProductCard**  
-- Developed **CartContext** and accessibility-first login flow  
-- Implemented backend logic: **productController**, **authMiddleware**, **registerUser**, **gameRoutes**, and **server.js**  
-- Created the **Game Mode** system — custom success/failure screens that gamify checkout  
-- Contributed to route structure: *authRoutes, orderRoutes, uploadRoutes*  
+- Hierarchical project tracking, team assignments, and role-based access.
+- Quick daily worker check-ins and on-site media updates.
+- Real-time audio and video communication using SignalR and WebRTC.
 
-**⚙️ Stack Used:** React · Express · MongoDB · Node.js · JWT · REST APIs  
+**Built with:** React · TypeScript · Electron · C# · ASP.NET Core · Entity Framework Core · PostgreSQL · Docker
 
-🧃 *Designed to make a purchase journey fun and accessible while maintaining secure transactions and responsive UI.*  
+Developed collaboratively with **Team Cepression** for Interactive Development 300.
 
-📸 *Preview:*  
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Welcome.png" width="950" alt="The Drunken Giraffe Preview"/>
+[Explore the repository →](https://github.com/AngievR05/Projello-Management-System)
 
 ---
 
-### 📚 Shelfy - Interactive Literature Dashboard  
-**Type:** Front-End Data Visualization App (React + Google Books API)  
-**Link:** [View Repo](https://github.com/AngievR05/shelfy_react_app.git)
+### 02: Treasi
 
-📖 *Shelfy is a data visualisation dashboard that transforms reading trends into insights.*  
-It lets users explore, compare, and visualise books using **Google Books API**, turning raw literary data into dynamic, interactive charts.
+**Location-based scavenger hunting · Mobile application**
 
-**✨ Key Features**
-- 🔍 **Google Books API Integration:** Real-time search and data retrieval  
-- 📊 **Radar, Bar & Pie Charts:** Built with Chart.js and Recharts for rich data visualization  
-- 📚 **Comparison Mode:** Compare books by rating, price, and page count  
-- 🧩 **Genre Filtering:** Smart toggle buttons dynamically query book sets  
-- 🌈 **UI:** Clean, responsive layout with subtle animations and themed icons  
+[![Treasi — hide, explore, stay connected](https://github.com/AngievR05/treasi/blob/main/app/assets/Wireframes/Cover.png?raw=true)](https://github.com/AngievR05/treasi)
 
-**🎯 Why It Matters**  
-Shelfy reimagines how users interact with data, merging information architecture and visual storytelling through design-led React components.
+Treasi connects digital discovery with real places. Explorers hide treasure caches, follow clues, and use live location and compass guidance to uncover what others have left behind.
 
-📸 *Preview:*  
-<img src="https://github.com/AngievR05/AngievR05/blob/main/assets/Timeline%20Search.png" width="950" alt="Shelfy Preview"/>
+- GPS and compass navigation towards real-world cache locations.
+- Proximity-verified discoveries, optional shake excavation, and haptic feedback.
+- Social activity, friendships, and leaderboards in a landscape-first field console.
+
+**Built with:** React Native · TypeScript · Expo · Firebase Authentication · Cloud Firestore · Device sensors
+
+[Explore the repository →](https://github.com/AngievR05/treasi) · [Watch the demo](https://drive.google.com/drive/folders/1_r2pFbygXuqpii-kw80xBZH0yWf4nzcy?usp=sharing)
 
 ---
 
-## 📈 GitHub Analytics  
+### 03: Vela
 
-<div align="center">
+**Personal reading companion · Responsive web application**
 
-![Angie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AngievR05&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngievR05&layout=compact&hide=html&theme=vue&hide_border=true)
+[![Vela — your reading life, intelligently organised](https://github.com/AngievR05/vela/blob/main/docs/images/figma/cover.png?raw=true)](https://github.com/AngievR05/vela)
 
-</div>
+Vela helps readers organise their books, reflect on their reading, and choose what to read next. Its personalisation centres on transparency: readers can inspect and correct the preferences behind their recommendations.
 
----
+- Library shelves, reading progress, ratings, reflections, and CSV import.
+- Gemini-assisted recommendations checked against Google Books catalogue data.
+- Editable Reading DNA, optional learning permissions, and private reader data.
 
-## 🪩 Design Philosophy  
+**Built with:** Next.js · React · Supabase · PostgreSQL · Google Books API · Gemini
 
-> “Technology should feel, not just function.”  
-
-Every project I build carries a bit of soul: a sense of humanity through interaction design, emotional colour systems, and microinteractions.  
-I write code like a designer and design like a developer — ensuring the *form follows function*, and function follows feeling.
-
-I’m currently exploring **AI-assisted interfaces**, **data-driven empathy in UX**, and **intelligent front-end systems** that adapt to user context.
+[Explore the repository →](https://github.com/AngievR05/vela) · [Try Vela](https://vela-sepia-nine.vercel.app) · [View the designs](https://www.figma.com/design/KUdyt409wRaPTCSRdfeEH5/Vela?node-id=1-8)
 
 ---
 
-## 📬 Let’s Connect  
+## My toolkit
 
-💌 **Email:** 241077@virtualwindow.co.za  
-🔗 **LinkedIn:** [linkedin.com/in/angie-van-rooyen-7008712a7/](https://www.linkedin.com/in/angie-van-rooyen-7008712a7/)  
-🌍 **Portfolio:** Coming soon  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat" alt="C#" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&amp;logo=expo&amp;logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat&amp;logo=electron&amp;logoColor=9FEAF9" alt="Electron" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=flat&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-212121?style=flat&amp;logo=firebase&amp;logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=flat&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+</p>
 
-<div align="center">
-  
-✨ *"Design is the body, code is the soul."* ✨  
-<br>
-💫 *Made with creativity, logic, and too much coffee.*
+| Area | Technologies & tools |
+| --- | --- |
+| Languages | JavaScript, TypeScript, C#, HTML, CSS |
+| Web & desktop | React, Next.js, Electron |
+| Mobile | React Native, Expo |
+| Backend & data | ASP.NET Core, Entity Framework Core, PostgreSQL, Supabase, Firebase |
+| Connected experiences | REST APIs, SignalR, WebRTC, location and device sensors |
+| Design & delivery | Figma, Git, GitHub, Docker, Vercel |
 
-</div>
+## GitHub repository statistics
+
+Live statistics for my three featured repositories. Select a project to explore its code, documentation, and commit history.
+
+| Repository | Stars | Forks | Latest commit |
+| --- | --- | --- | --- |
+| [Projello](https://github.com/AngievR05/Projello-Management-System) | ![Projello stars](https://img.shields.io/github/stars/AngievR05/Projello-Management-System?style=flat&color=4A6B52) | ![Projello forks](https://img.shields.io/github/forks/AngievR05/Projello-Management-System?style=flat&color=4A6B52) | ![Projello latest commit](https://img.shields.io/github/last-commit/AngievR05/Projello-Management-System/main?style=flat&color=4A6B52) |
+| [Treasi](https://github.com/AngievR05/treasi) | ![Treasi stars](https://img.shields.io/github/stars/AngievR05/treasi?style=flat&color=4A6B52) | ![Treasi forks](https://img.shields.io/github/forks/AngievR05/treasi?style=flat&color=4A6B52) | ![Treasi latest commit](https://img.shields.io/github/last-commit/AngievR05/treasi/main?style=flat&color=4A6B52) |
+| [Vela](https://github.com/AngievR05/vela) | ![Vela stars](https://img.shields.io/github/stars/AngievR05/vela?style=flat&color=4A6B52) | ![Vela forks](https://img.shields.io/github/forks/AngievR05/vela?style=flat&color=4A6B52) | ![Vela latest commit](https://img.shields.io/github/last-commit/AngievR05/vela/main?style=flat&color=4A6B52) |
+
+## What I'm exploring next
+
+I'm interested in making complex systems easier to use: clearer onboarding, accessible interaction patterns, and personalisation that people can understand and control. I want to keep strengthening the connection between thoughtful interface design and reliable application behaviour.
+
+## Let's connect
+
+Interested in my work or want to talk about development and design? Reach me at [241077@virtualwindow.co.za](mailto:241077@virtualwindow.co.za) or connect with me on [LinkedIn](https://www.linkedin.com/in/angie-van-rooyen-7008712a7).
+
+<p align="center"><em>Design is the body, code is the soul.</em></p>
