@@ -2,24 +2,31 @@
 
 <p align="center">
   <strong>Full-stack developer & UI/UX designer</strong><br />
-  Thoughtful interfaces. Practical systems. Human-centred experiences.
+  Thoughtful design, working code, and a little personality.
 </p>
 
 <p align="center">
   <a href="https://github.com/AngievR05">GitHub</a> ·
   <a href="https://www.linkedin.com/in/angie-van-rooyen-7008712a7">LinkedIn</a> ·
-  <a href="mailto:241077@virtualwindow.co.za">Email</a>
+  <a href="mailto:vanrooyenangie719@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About me
 
-I'm Angie, a developer and designer studying UX and Development at the Open Window Institute. I enjoy taking an idea from research and interface design through to a working application, connecting the details people see with the systems behind them.
+I'm Angie, a developer and UI/UX designer studying UX and Development at the Open Window Institute. I enjoy taking an idea from research and sketches to a working app, and thinking about how each screen connects to the code behind it.
 
-My approach is guided by a simple belief: **design is the body, code is the soul.** I care about clear journeys, considered visual systems, and interactions that help people feel confident using a product.
+My approach is simple: **design is the body, code is the soul.** I care about clear layouts, useful feedback, and the small details that make an app easier to use.
 
-In **2026**, my work spans construction project management, sensor-driven mobile exploration, and personalised reading. Across these projects, I've explored desktop, mobile, and web development, with a focus on usability, connected data, and purposeful interaction.
+My **2026 DV300 portfolio** brings together three projects across desktop, mobile, and web. My career focus is full-stack development with a strong grounding in UI/UX design.
+
+## What I bring
+
+- **Interface design:** turning user needs into clear flows, wireframes, and reusable visual styles in Figma.
+- **Application development:** building React interfaces, connecting APIs, and working with accounts and stored data.
+- **Problem-solving:** handling access rules, uncertain sensor data, and recommendations that people can understand and correct.
+- **Teamwork:** working through shared API contracts, feature branches, pull requests, and integration feedback.
 
 ## Featured projects · 2026
 
@@ -27,7 +34,7 @@ In **2026**, my work spans construction project management, sensor-driven mobile
 
 **Construction project management · Desktop application · Team project**
 
-[![Projello — construction project management](https://github.com/AngievR05/Projello-Management-System/blob/main/ReadmeImages/Cover.png?raw=true)](https://github.com/AngievR05/Projello-Management-System)
+[![Projello — construction project management](./assets/projello-cover.png)](https://github.com/AngievR05/Projello-Management-System)
 
 Construction teams need a clear picture of what's happening on site. Projello brings clients, projects, milestones, and tasks into one workspace, with workflows built around the realities of field work.
 
@@ -37,7 +44,9 @@ Construction teams need a clear picture of what's happening on site. Projello br
 
 **Built with:** React · TypeScript · Electron · C# · ASP.NET Core · Entity Framework Core · PostgreSQL · Docker
 
-Developed collaboratively with **Team Cepression** for Interactive Development 300.
+**My contribution:** project setup, JWT authentication and access checks, the two-step verification flow, request validation, and the History page with its backend queries, filtering, and reactions.
+
+Built with **Team Cepression** for Interactive Development 300. The wider team contributed database and infrastructure work, interface design, management features, media uploads, and calling.
 
 [Explore the repository →](https://github.com/AngievR05/Projello-Management-System)
 
@@ -45,9 +54,9 @@ Developed collaboratively with **Team Cepression** for Interactive Development 3
 
 ### 02: Treasi
 
-**Location-based scavenger hunting · Mobile application**
+**Location-based scavenger hunting · Mobile application · Individual project**
 
-[![Treasi — hide, explore, stay connected](https://github.com/AngievR05/treasi/blob/main/app/assets/Wireframes/Cover.png?raw=true)](https://github.com/AngievR05/treasi)
+[![Treasi — hide, explore, stay connected](./assets/treasi-cover.png)](https://github.com/AngievR05/treasi)
 
 Treasi connects digital discovery with real places. Explorers hide treasure caches, follow clues, and use live location and compass guidance to uncover what others have left behind.
 
@@ -57,15 +66,17 @@ Treasi connects digital discovery with real places. Explorers hide treasure cach
 
 **Built with:** React Native · TypeScript · Expo · Firebase Authentication · Cloud Firestore · Device sensors
 
+**What I learned:** a location-based app needs to explain when a position is old or inaccurate. Playful motion controls also need a simple tap alternative.
+
 [Explore the repository →](https://github.com/AngievR05/treasi) · [Watch the demo](https://drive.google.com/drive/folders/1_r2pFbygXuqpii-kw80xBZH0yWf4nzcy?usp=sharing)
 
 ---
 
 ### 03: Vela
 
-**Personal reading companion · Responsive web application**
+**Personal reading companion · Responsive web application · Individual project**
 
-[![Vela — your reading life, intelligently organised](https://github.com/AngievR05/vela/blob/main/docs/images/figma/cover.png?raw=true)](https://github.com/AngievR05/vela)
+[![Vela — your reading life, intelligently organised](./assets/vela-cover.png)](https://github.com/AngievR05/vela)
 
 Vela helps readers organise their books, reflect on their reading, and choose what to read next. Its personalisation centres on transparency: readers can inspect and correct the preferences behind their recommendations.
 
@@ -74,6 +85,8 @@ Vela helps readers organise their books, reflect on their reading, and choose wh
 - Editable Reading DNA, optional learning permissions, and private reader data.
 
 **Built with:** Next.js · React · Supabase · PostgreSQL · Google Books API · Gemini
+
+**What I learned:** useful personalisation needs reliable book facts, clear reasons, and a way for the reader to change what the app has learned.
 
 [Explore the repository →](https://github.com/AngievR05/vela) · [Try Vela](https://vela-sepia-nine.vercel.app) · [View the designs](https://www.figma.com/design/KUdyt409wRaPTCSRdfeEH5/Vela?node-id=1-8)
 
@@ -85,6 +98,8 @@ Vela helps readers organise their books, reflect on their reading, and choose wh
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
@@ -111,7 +126,7 @@ Vela helps readers organise their books, reflect on their reading, and choose wh
 
 ## GitHub repository statistics
 
-Live statistics for my three featured repositories. Select a project to explore its code, documentation, and commit history.
+Statistics for my three featured repositories, updated by Shields.io. Each repository includes its own project README and setup instructions.
 
 | Repository | Stars | Forks | Latest commit |
 | --- | --- | --- | --- |
@@ -121,10 +136,14 @@ Live statistics for my three featured repositories. Select a project to explore 
 
 ## What I'm exploring next
 
-I'm interested in making complex systems easier to use: clearer onboarding, accessible interaction patterns, and personalisation that people can understand and control. I want to keep strengthening the connection between thoughtful interface design and reliable application behaviour.
+I'd like to deepen my work in automated testing, accessibility, and handling unreliable connections and outside services. I also want to spend more time watching people use what I build, so the next changes respond to real needs.
 
 ## Let's connect
 
-Interested in my work or want to talk about development and design? Reach me at [241077@virtualwindow.co.za](mailto:241077@virtualwindow.co.za) or connect with me on [LinkedIn](https://www.linkedin.com/in/angie-van-rooyen-7008712a7).
+Have a project in mind, or want to talk about development and design?
+
+**Email:** [vanrooyenangie719@gmail.com](mailto:vanrooyenangie719@gmail.com)  
+**LinkedIn:** [Angie van Rooyen](https://www.linkedin.com/in/angie-van-rooyen-7008712a7)  
+**GitHub:** [@AngievR05](https://github.com/AngievR05)
 
 <p align="center"><em>Design is the body, code is the soul.</em></p>
